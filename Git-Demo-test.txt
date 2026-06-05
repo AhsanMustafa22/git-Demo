@@ -7,3 +7,4 @@ Hello
 Add The new Branch "Dev" for testing
 Again Add the 2nd commit for Dev branch
 Hello
+Dev branch conflict test
