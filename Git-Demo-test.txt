@@ -7,4 +7,4 @@ Hello
 Add The new Branch "Dev" for testing
 Again Add the 2nd commit for Dev branch
 Hello
-main Branch conflict
+main Branch and ev branch conflict solve
